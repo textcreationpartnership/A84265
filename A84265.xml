@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding true and joyfull newes from Worchester: Wherin is declared two glorious battels performed by the Parliaments forces against the Kings army, Septemb. 24. and 26. The first by the Earl of Essex with ten troops of horse, against Prince Robert, and Commissary Wilmot, with 14 troops, within half a mile of VVorcester, vvho after 4 or 5 hours fight, slew Commissary VVilmot, wounded Prince Robert in the head, and killed about 30. common souldiers. Of the Earl of Essex side were slain Serjeant Major Douglas, and about 20 common souldiers. This battell was fought upon Monday last, and with much difficulty his Excellency obtained the victory, and hath beaten all the cavaleers out of VVorcester. The second battle was fought the L. Sey, against Sir Iohn Byron neer Shrewsburie, Sep. 24, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84265</idno>
+            <idno type="STC">Wing E3772</idno>
+            <idno type="STC">Thomason E119_8</idno>
+            <idno type="STC">ESTC R17124</idno>
+            <idno type="EEBO-CITATION">99860148</idno>
+            <idno type="PROQUEST">99860148</idno>
+            <idno type="VID">112257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding true and joyfull newes from Worchester: Wherin is declared two glorious battels performed by the Parliaments forces against the Kings army, Septemb. 24. and 26. The first by the Earl of Essex with ten troops of horse, against Prince Robert, and Commissary Wilmot, with 14 troops, within half a mile of VVorcester, vvho after 4 or 5 hours fight, slew Commissary VVilmot, wounded Prince Robert in the head, and killed about 30. common souldiers. Of the Earl of Essex side were slain Serjeant Major Douglas, and about 20 common souldiers. This battell was fought upon Monday last, and with much difficulty his Excellency obtained the victory, and hath beaten all the cavaleers out of VVorcester. The second battle was fought the L. Sey, against Sir Iohn Byron neer Shrewsburie, Sep. 24, 1642.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb, 29. Printed for James Blake, to prevent all false Copies from those Parts, by order,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Byron, John Byron, --  Baron, 1598 or 9-1652.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Saye and Sele, William Fiennes, --  Viscount, 1582-1662.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Sudbury (Suffolk) --  History --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Worcester (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112257:1"/>
+            <pb facs="tcp:112257:1" rendition="simple:additions"/>
+            <p>Exceeding true and joyfull NEWES FROM <hi>WORCESTER:</hi> Wherin is Declared two glorious Battels per<g ref="char:EOLhyphen"/>formed by the Parliaments Forces againſt the Kings Army, Septemb. 24. and 26.</p>
+            <p>The firſt by the Earl of <hi>Eſſex</hi> with ten Troops of Horſe, againſt Prince <hi>Robert,</hi> and Commiſſary <hi>Wilmot,</hi> with 14 Troops, within half a mile of <hi>VVorce<g ref="char:EOLhyphen"/>ſter,</hi> who after 4 or 5 hours fight, ſlew Commiſſary <hi>VVilmot,</hi> wounded Prince <hi>Robert</hi> in the head, and killed about 30. Common ſouldiers.</p>
+            <p>Of the Earl of Eſſex ſide were ſlain Serjeant Major Doug<g ref="char:EOLhyphen"/>las, and about 20 Common ſouldiers. This battell was fought upon Monday laſt, and with much difficulty his Excel<g ref="char:EOLhyphen"/>lency obtained the victory, and hath beaten all the Cavaleers out of <hi>VVorceſter.</hi> The ſecond battle was fought the L. <hi>Sey,</hi> againſt Sir <hi>Iohn Byron</hi> neer <hi>Shrewsburie, Sep.</hi> 24, 1642.</p>
+            <p>
+               <hi>Septemb,</hi> 29. Printed for <hi>James Blake,</hi> to prevent all falſe Copies from thoſe Parts, by order.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:112257:4"/>
+            <pb facs="tcp:112257:4"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+               </figure>
+            </head>
+            <head>Exceeding Joyfull NEWES FROM <hi>WORCESTER.</hi>
+            </head>
+            <head type="sub">Brought from thence by the laſt Poſt, <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> the 27. 1442.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Sonday laſt, Mr. <hi>FINES</hi> drew up his Forces, and began to give an Aſſault upon that Gate of the City, which is called <hi>Sudburie,</hi> and did very good execution, ha<g ref="char:EOLhyphen"/>ving almoſt gotten entrance into the City, but this moſt happy at<g ref="char:EOLhyphen"/>tempt was prevented moſt unfortunately; For be<g ref="char:EOLhyphen"/>fore the Gates were abſolutely made open to his Forces, Sir <hi>IOHN BYRON</hi> drew up a ſtrong force of horſe, and immediatly iſſued forth, and gave them a fierce and violent encounter, which Maſter
+<pb facs="tcp:112257:2"/>
+               <hi>FINES</hi> wiſely weighing their power and ſtrength, not to be ſo ſtrong and able as he did wiſh, and conſidering how many worthy lives, and what va<g ref="char:EOLhyphen"/>liant bloud might bee ſpilt in this quarrell, would not hazz<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd his men upon the leaſt diſadvantage, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judiciouſly weighing all things, he withdrew his Forces ſome 4 miles from the City to a place cal<g ref="char:EOLhyphen"/>led Knowl <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill expecting ſome more Forces dayly to arrive there, by whoſe aid and aſſiſtance he might finiſh what he had before begun.</p>
+            <p>And upon Satterday laſt, the L. Sey and Captain Brown came to <hi>VVORCESTER</hi> with their Forces placing them in the moſt advantagious places for their purpoſe.</p>
+            <p>And for the prevention of the enemies flight o<g ref="char:EOLhyphen"/>ver the Bridge into Wales, they placed a ſtrong Garriſon at St <hi>Iones,</hi> almoſt a mile from the City, by this meanes prohibiting and ſtaying them from having ano aid and aſſiſtance from the Welch. And ſome other Forces they placed in <hi>Perry-vvood</hi> a<g ref="char:EOLhyphen"/>bout two miles from the City, and having thus ſurrounded the City, they made a Battery againſt the walls planting their Ordnance at St. <hi>Iones,</hi> and many happy ſhots were made againſt the town, the Cavaleers anſwering them againe with as much ſtrength as they could.</p>
+            <p>But all in vain, for the L. Sey and Captain Brown received no loſſe or harme, but it is thought that there mas much harm done in the City.</p>
+            <p>This fight continued for the ſpace of ſeven hours many of the Cavaleers being ſlaine therein, and ſome of the chiefeſt Ring-Leaders in this lewd and
+<pb facs="tcp:112257:2"/>wicked practiſe againſt the King, Church and ſtate were wounded, among whom Sir <hi>Sterington Tal<g ref="char:EOLhyphen"/>bot</hi> a great complotter in this buſineſſe, received the firſt hurt, being ſhot in the ſhoulder.</p>
+            <p>Maſter Colbin is likewiſe dangerouſly woun<g ref="char:EOLhyphen"/>ded, many more were killed, but the full and perfect Number of them is not as yet known, they concei<g ref="char:EOLhyphen"/>ling their loſſes; becauſe they would not diſcourage the reſt of their Confederates.</p>
+            <p>But thus much is certain, the Lord Sey, and Cap<g ref="char:EOLhyphen"/>tain Brown have had ſo happy ſucceſſe in this their undertakings, that it is generally reported, that they muſt very ſpeedily ſurrender up the City, they ha<g ref="char:EOLhyphen"/>ving received ſo great a loſſe by this preſent En<g ref="char:EOLhyphen"/>counter.</p>
+            <p>Here followes the true and exact Deſcription of a great Battle fought by his Excellencie the Earl of <hi>Eſſex,</hi> againſt Prince <hi>Robert</hi> his Forces, who ſallyed out of the town with ten troops of horſe, and met him.</p>
+            <div type="part">
+               <pb facs="tcp:112257:3"/>
+               <head>The ſecond Battle fought by his Excel<g ref="char:EOLhyphen"/>lency, <hi>ROBERT</hi> Earle of <hi>Eſſex,</hi> againſt Prince <hi>Robert,</hi> neere the City of <hi>Worceſter,</hi> Septem. 26. MDCXLII.</head>
+               <p>PRince <hi>Robert</hi> having information, that the Earl of <hi>Eſsex</hi> was within 3. miles of the City, he immediatly drew out ten troops of Horſe, and marched towards Bouchers Meadow, about half a mile di<g ref="char:EOLhyphen"/>ſtant from <hi>Worceſter,</hi> and commanded Sir <hi>John Byron</hi> to march with 2000. foot and 700. Horſe towards <hi>Upton,</hi> to aſſault the Earl of <hi>Eſſex</hi> on the Reer.</p>
+               <p>Our Artillery was behind, about 9. miles from <hi>Worceſter,</hi> and moſt of the foot for<g ref="char:EOLhyphen"/>ces, which was a great encouragement to the Cavaleers, and made them very for<g ref="char:EOLhyphen"/>ward to meet his Excellency.</p>
+               <p>But ſoon was their hopes fruſtrated; for when the Earl of <hi>Eſſex</hi> ſaw that Prince
+<pb facs="tcp:112257:3"/>
+                  <hi>Robert</hi> had ſet his men in Battalia, and were reſolved to have a pitc'd Battle, he com<g ref="char:EOLhyphen"/>manded Sergeant Major <hi>Douglas,</hi> a moſt Noble and expert Souldier, to draw out 200. Horſe, and to charge the enemy, which he did with ſuch an undanted ſpirit, and ſo effectually, that 14. of them quickly fell.</p>
+               <p>Then Col. <hi>Sandis,</hi> Capt. <hi>Wingate,</hi> and Cap. <hi>Hales</hi> adventured to march up to relieve Serjeant Major <hi>Douglas,</hi> and gave a ſecond Charge to Prince <hi>Robert,</hi> which did very good execution, and as it is credibly re<g ref="char:EOLhyphen"/>ported, Prince <hi>Robert</hi> received a ſore wound on the Head.</p>
+               <p>And after 4. or 5. hours fight, much harm being done on both ſides, Captain <hi>Auſtin</hi> marched up from the Reer, with his troop and gave a moſt deſperate Charge, which the enemy perceiving, and being ſenſible of, they retreated into the City of <hi>Worce<g ref="char:EOLhyphen"/>ſter,</hi> and Captain <hi>Auſtin</hi> followed them in<g ref="char:EOLhyphen"/>to the City, and did execution on them there, but they ſtayed not ſo much as to alight, but marched away, and his Troope
+<pb facs="tcp:112257:5"/>being ſingle, none then came to aſſiſt him, could not purſue, ſo he kept the Gates of the City, to make entrance for our men, and ſo by this means we obtained the Ci<g ref="char:EOLhyphen"/>ty, and good ſtore of Armes belonging to the Cavaleers, and have taken about 30. Priſoners.</p>
+               <p>Sergeant Major <hi>Douglas</hi> was ſlain on out ſide, with 20. more, and about 30. of the Enemy.</p>
+               <p>The Lord Generall is now in this Ci<g ref="char:EOLhyphen"/>ty, and doth intend to march towards the Kings Army at <hi>Shrewsbury.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
